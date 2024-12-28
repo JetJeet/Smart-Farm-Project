@@ -1,0 +1,16 @@
+FarmApp/
+├── Field.java
+|   ├── Sensor.java
+|   |   ├── NPKSensor.java
+|   |   └── MoistureSensor.java
+|
+├── Actuator.java
+|   ├── Sprinkler.java
+|   └── Motor.java
+|
+├── WeatherStation.java
+|   └── compWeatherSensor.java
+|
+├── Controller.java
+├── AlertSystem.java
+└── User.java
